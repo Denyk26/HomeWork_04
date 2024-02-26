@@ -1,0 +1,49 @@
+body{
+    background-color: #38ADA9;
+}
+
+.card{
+    border: 2px solid black;
+    background-color: #079992;
+    border-radius: 20px;
+    max-width: 902px;
+    margin: 0 auto;
+    font-family: Inter;
+   
+}
+
+.card button{
+    border-radius: 20px;
+    background-color:#1E3799;
+    color: #F6B93B;
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    border: 1px solid #1E3799;
+}
+
+.card .button{
+    width: 250px;
+    margin-right: 20px;
+}
+
+.words1{
+    line-height: 43px;
+    font-weight: 400;
+    width:
+}
+
+.words2{
+    font-weight: 400;
+}
+
+.card p{
+    font-weight: 400;
+    
+    font-size: 16.5px;
+    
+}
+
+.wraper{
+    padding: 33px 71px 48px 64px;
+}
